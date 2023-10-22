@@ -1,0 +1,15 @@
+improve inverse kri 2023\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+improve inverse kri 2023\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+improve inverse kri 2023\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+improve inverse kri 2023\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+improve inverse kri 2023\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+improve inverse kri 2023\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+improve inverse kri 2023\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+improve inverse kri 2023\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+improve inverse kri 2023\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+improve inverse kri 2023\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+improve inverse kri 2023\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+improve inverse kri 2023\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+improve inverse kri 2023\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+improve inverse kri 2023\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+improve inverse kri 2023\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
